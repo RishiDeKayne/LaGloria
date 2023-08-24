@@ -1,1 +1,7 @@
 
+
+#plot fst from GATK and angsd in 5kb non-overlapping windows:
+##GATK data
+#scp rishi.de-kayne@kamiak.wsu.edu:/data/kelley/projects/poeciliids/LaGloria/06_Divergence_with_GATK_VCFs/*.csv .
+#scp rishi.de-kayne@kamiak.wsu.edu:/data/kelley/projects/poeciliids/LaGloria/05_ANGSD/Fst/*_5kb_non* .
+
